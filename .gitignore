@@ -1,0 +1,4 @@
+# ignore database config and others
+
+wordpress/wp-config.php
+wordpress/.htaccess
